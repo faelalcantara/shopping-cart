@@ -1,3 +1,4 @@
+# Main lists
 items = []
 prices = []
 
