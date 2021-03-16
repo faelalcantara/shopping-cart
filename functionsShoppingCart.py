@@ -104,3 +104,4 @@ def checkOut():
         print(f"Change: ${change:.2f}")
     else:
         print("There's nothing to pay for.")
+        
